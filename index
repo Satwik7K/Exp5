@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiment 5 - CI/CD</title>
+</head>
+<body>
+    <h1>CI/CD Deployment Successful!</h1>
+    <p>Application deployed using Docker and AWS.</p>
+    <p>Source: GitHub | Pipeline: Jenkins</p>
+</body>
+</html>
